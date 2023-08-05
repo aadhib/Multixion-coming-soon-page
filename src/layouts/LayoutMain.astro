@@ -16,6 +16,29 @@ const fontsUrl =
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <GoogleFontsOptimizer url={fontsUrl} />
+
+    {/* Open Graph / Facebook */}
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://multixion.com/" /> {/* Replace with your website URL */}
+    <meta property="og:title" content="Multixion" />
+    <meta
+      property="og:description"
+      content="Your One-Stop Solution for Seamless Success: From Initial Registration to Digital Excellence!"
+    />
+    <meta property="og:image" content="https://raw.githubusercontent.com/aadhib/Multixion-coming-soon-page/main/Meta_image.png" /> {/* Replace with your image URL */}
+
+    {/* Twitter */}
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://multixion.com/" /> {/* Replace with your website URL */}
+    <meta property="twitter:title" content="Multixion" />
+    <meta
+      property="twitter:description"
+      content="Your One-Stop Solution for Seamless Success: From Initial Registration to Digital Excellence!"
+    />
+    <meta property="twitter:image" content="https://raw.githubusercontent.com/aadhib/Multixion-coming-soon-page/main/Meta_image.png" />
+
+
+
     <SEO
       title={json.seo.title}
       description={json.seo.description}

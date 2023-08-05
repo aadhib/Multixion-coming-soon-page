@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "MULTIXION",
+    "email": "service@multixion.com"
+  },
+
+  "section_hero": {
+    "title": "—a meaningful effort in crafting creative solutions leveraging technology.",
+    "description": "We are a group of software craftsmen that firmly believe that everything can be done better—thus always seeking to improve ourselves and the composition of elements we deliver."
+  },
+
+  "section_contact": {
+    "title": "Do you have an interesting project?",
+    "description": "We are always looking for exciting opportunities to work with new clients across all industries. If you have a project you'd like to discuss, please get in touch.",
+    "call_to_action": "Reach out"
+  },
+
+  "layout_footer": {
+    "title": "Innovate, Integrate, Inspire.",
+    "copyright": "© 2023, MULTIXION",
+    "ring_text": "continuous innovation —— empowering solutions ——"
+  },
+
+  "seo": {
+    "title": "Multixion",
+    "description": "Your One-Stop Solution for Seamless Success: From Initial Registration to Digital Excellence!",
+    "image": "https://raw.githubusercontent.com/aadhib/Multixion-coming-soon-page/e9272b819ce6cded5568795428b4beb8d02f71b3/Twitter_Card.png"
+  }
+}

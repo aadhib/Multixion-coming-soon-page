@@ -1,0 +1,10 @@
+commit-msg:
+  commands:
+    linter:
+      run: npx commitlint --edit
+
+post-merge:
+  commands:
+    update:
+      run: pnpm install
+
